@@ -74,7 +74,7 @@ With a strong foundation in modern web technologies and a keen interest in AI/ML
 
 ### 🌐 Connect
 
-- **Personal Website/Portfolio**: [kethanvr.me](https://kethanvr.me)
+- **Personal Website/Portfolio**: [kethanvr.me](https://kethanvr.tech)
 - **GitHub**: [@Kethanvr](https://github.com/Kethanvr)
 - **LinkedIn**: [Kethan VR](https://www.linkedin.com/in/kethanvr/)
 
