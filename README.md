@@ -8,7 +8,7 @@
 
 ## � Project Overview
 
-> **Live Demo**: [https://ise-study-material.vercel.app](https://ise-study-material.vercel.app)
+> **Live Demo**: [https://ise-study-material.vercel.app](https://www.vtustudymaterials.online/)
 
 The **Academic Material Portal** is a cutting-edge web application designed to revolutionize how students access educational resources. By replacing scattered links with a unified, intuitive, and mobile-responsive interface, this portal ensures that lecture notes, syllabus copies, and question banks are just a click away.
 
